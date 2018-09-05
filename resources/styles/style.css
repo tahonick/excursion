@@ -1,5 +1,11 @@
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -8,4 +14,8 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+}
+
+.video {
+    padding-top: 20px;
 }
