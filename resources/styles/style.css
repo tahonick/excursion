@@ -30,3 +30,12 @@ p {
 .video {
     padding-top: 20px;
 }
+
+.call-to-action img {
+    padding-top: 30px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
